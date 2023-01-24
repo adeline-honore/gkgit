@@ -6,3 +6,5 @@ leopard
 
 
 lama
+
+pikachu
