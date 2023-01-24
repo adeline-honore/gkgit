@@ -8,3 +8,7 @@ leopard
 lama
 
 pikachu
+
+requin
+
+dauphin
